@@ -9,6 +9,10 @@ Durante o curso desenvolvi do 0 em javascript o arquivo app.js, o código foi ev
 Aprendi manipular os elementos de uma página html através do javascript e desenvolvi um jogo que sorteia um número aleatório
 e implementei um módulo de responsive voice para que ele fale em determinadas partes do jogo.
 
+## Link para testar a aplicação:
+
+<a href='https://jogo-dos-numeros-delta.vercel.app/'>Link do Deploy do Game</a>
+
 ## Desenvolvido por:
 
 | [<img src="https://avatars.githubusercontent.com/u/37429520?v=4" width="115"><br><sub>André Bimbatti</sub>](https://github.com/andrebimbatti)
