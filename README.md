@@ -5,7 +5,7 @@
 
 ## Informações
 
-Durante o curso desenvolvi do 0 em javascript, o código foi evoluindo enquanto aprendia mais sobre lógica da programação.
+Durante o curso desenvolvi do 0 em javascript o arquivo app.js, o código foi evoluindo enquanto aprendia mais sobre lógica da programação.
 Aprendi manipular os elementos de uma página html através do javascript e desenvolvi um jogo que sorteia um número aleatório
 e implementei um módulo de responsive voice para que ele fale em determinadas partes do jogo.
 
